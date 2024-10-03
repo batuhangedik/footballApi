@@ -1,0 +1,8 @@
+C:\Users\Batuhan\Desktop\FootballApi\footballApi\LeaderboardAPI\obj\Debug\net8.0\LeaderboardAPI.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\FootballApi\footballApi\LeaderboardAPI\obj\Debug\net8.0\LeaderboardAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan\Desktop\FootballApi\footballApi\LeaderboardAPI\obj\Debug\net8.0\LeaderboardAPI.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\FootballApi\footballApi\LeaderboardAPI\obj\Debug\net8.0\LeaderboardAPI.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\FootballApi\footballApi\LeaderboardAPI\obj\Debug\net8.0\LeaderboardAPI.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\FootballApi\footballApi\LeaderboardAPI\obj\Debug\net8.0\LeaderboardAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Batuhan\Desktop\FootballApi\footballApi\LeaderboardAPI\obj\Debug\net8.0\LeaderboardAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Batuhan\Desktop\FootballApi\footballApi\LeaderboardAPI\obj\Debug\net8.0\LeaderboardAPI.sourcelink.json
